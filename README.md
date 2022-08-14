@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple weather app made using React, Javascript, Tailwind CSS and Html
+Utilizes openweatherAPI for weather info
 
 ## Available Scripts
 
