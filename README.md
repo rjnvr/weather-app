@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-A simple weather app made using React, Javascript, Tailwind CSS and Html.
+A simple weather app that utilizes openweatherAPI for weather information. Made using React, Javascript, Tailwind CSS and Html.
 
-Utilizes openweatherAPI for weather info
+
 
 ## Available Scripts
 
