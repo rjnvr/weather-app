@@ -1,3 +1,5 @@
+![alt text](https://github.com/rjnvr/weather-app/blob/main/weatherapp.gif)
+
 # Getting Started with Create React App
 
 A simple weather app that utilizes openweatherAPI for weather information. Made using React, Javascript, Tailwind CSS and Html.
